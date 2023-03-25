@@ -6,9 +6,9 @@ title: HOOT
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
+email: hoot190305@gmail.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: 서울특별시 강동구
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -57,17 +57,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Base"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "저희 손으로 만들고 유지보수할 시스템이기 때문에, 기획에서부터 시스템의 큰 줄기를 제대로 세울 수 있도록 서포트 하겠습니다. 또, 국내 거대 시스템들을 설계해온 경험을 바탕으로, 누구보다 안정적인 시스템 설계를 자부합니다."
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "설계 리드의 스타일에 맞추어 오래 손발 맞춰원 드림팀이 파트너의 제품을 빠르고 안정적이게 개발합니다."
 
-  - title: "Deliver"
+  - title: "Quality"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "테스트 케이스에 기발한 시나리오 테스트부터 실제 운영을 대비한 성능, 부하 테스트까지 전문 QA 인력이 있어 지품의 꼼꼼한 품질 보증 후 고객에게 검수요청 드리고 있습니다."
 
 # My Team Section
 team:
