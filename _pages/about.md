@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About Me
+title: About Us
 author: HOOT
-image: assets/images/about/author.jpg
+image: assets/images/about/owl_hoot.jpg
 signature: assets/images/about/signature.png
 ---
 
