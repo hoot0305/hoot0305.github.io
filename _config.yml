@@ -25,6 +25,13 @@ sass:
   sass_dir: assets/scss
   style: compressed
 
+# Collections
+collections: 
+    Blog:
+      output: true
+    Portfolio:
+      output: true
+
 # Exclude from processing.
 exclude:
   - Gemfile

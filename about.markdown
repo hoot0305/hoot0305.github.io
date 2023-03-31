@@ -1,18 +1,13 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
+title: About Us
+permalink: /about
+author: HOOT
+image: assets/images/about/owl_hoot.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+요즘과 같이 어떤 회사던 시스템이 사업의 핵심이 되는 세상에서, 저희는 뼈대부터 튼튼하게 만들어진 제대로된 시스템을 만들고자 합니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+참신한 사업 아이템과 충분한 열정을 가지고 계신 대표님들도 외주 업체를 잘못 만나 겉보기에만 그럴듯하고 실제로는 운영 불가능한 완성품에 좌절하는 경우를 많이 봐왔습니다. 물론 꼼꼼하게 계약을 하지만, 개발이라는 전문성을 가진 분야에 지식이 적은 상태에서 만들어진 제품이 제대로된 시스템인지 아닌지 판단하기는 매우 어렵습니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+대표님의 비즈니스를 실현시킬 제대로된 시스템을 만드려면 기획, 설계, 개발의 세가지 요소가 조화를 이루어야 한다고 생각합니다. 저희는 확장 가능한 설계를 기반으로 개발 완료 이후에도 실제 사용자에게 성공적으로 운영할 수 있도록 끝까지 서비스를 서포트하며 비즈니스의 성공을 함께하겠습니다.
